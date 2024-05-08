@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtechkicksin" alt="vtechkicksin" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Nestjs**
 
-- 💬 Ask me about **Nodejs and React**
+- 💬 Ask me about **Javascript, Nodejs and React**
 
 - 📫 How to reach me **sandeepkr.799@gmail.com**
 
