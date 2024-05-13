@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sandeep-kumar-4a2078175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-kumar-4a2078175/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sandeepkr_1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandeepkr_1999/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/sandeepkr_1999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sandeepkr_1999/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
