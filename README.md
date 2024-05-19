@@ -3,9 +3,11 @@
 
 <h3 align="center">Always look for a video link in every repository's README file. If you don't find one, I will add the video link soon.</h3>
 
-<img align="right" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding GIF">
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/55389276/143980388-7e2aa912-4796-4862-b3a2-ef573d9f7b65.gif" alt="Coding GIF">
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=vtechkicksin&label=Profile%20views&color=0e75b6&style=flat" alt="vtechkicksin" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vtechkicksin&label=Profile%20views&color=0e75b6&style=flat" alt="vtechkicksin" />
+</p>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -19,7 +21,7 @@
 - 📄 Know about my experiences: [Resume](https://bit.ly/3GPXZ4p)
 - ⚡ Fun fact: **I am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sandeep-kumar-4a2078175/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -29,7 +31,7 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40"/>
@@ -75,8 +77,14 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vtechkicksin&show_icons=true&locale=en&layout=compact" alt="vtechkicksin" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vtechkicksin&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vtechkicksin&show_icons=true&locale=en" alt="vtechkicksin" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vtechkicksin&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vtechkicksin&" alt="vtechkicksin" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vtechkicksin&" alt="GitHub Streak" />
+</p>
