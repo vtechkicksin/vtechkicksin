@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vtechkicksin" alt="vtechkicksin" /></a> </p>
 
-- 🌱 I’m currently learning **Nestjs**
+- 🌱 I’m currently learning **Nestjs** & **GraphQL**
 
 - 💬 Ask me about **Javascript, Nodejs and React**
 
