@@ -21,7 +21,7 @@
 - 🌱 Currently going deeper into **System Design**, **Distributed Systems** & **GenAI**
 - 💬 Ask me about **Node.js, NestJS, TypeScript, React, MongoDB, Redis, Kafka & AWS**
 - 📫 How to reach me: **sandeepkr.799@gmail.com**
-- 📄 Know about my experiences: [Resume](https://bit.ly/3GPXZ4p)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1X4EpqSzAWc1LQLcKwBBN4icwnUxO2J-T/view?usp=sharing)
 - 🏅 **AWS Certified Cloud Practitioner**
 - ⚡ Fun fact: **I am funny**
 
